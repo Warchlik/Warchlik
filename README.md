@@ -1,7 +1,7 @@
 # Hi there, I'm Szymon Wardak AKA Warchlik! 👋
 
-### 👨‍💻 Fullstack Developer & System Architect | Python Expert
-I am a **Fullstack Developer** with a strong focus on building high-performance systems. My core expertise lies in **Python**, where I architect complex **End-to-End** solutions, focusing on scalability, distributed logic, and seamless cloud integration.
+### 👨‍💻 Fullstack Developer | Python | PHP
+I am a **Fullstack Developer** with a strong focus on building high-performance systems. My core expertise lies in **Python** and **PHP**, where I architect complex **End-to-End** solutions, focusing on scalability, distributed logic.
 
 ---
 
