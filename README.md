@@ -12,10 +12,10 @@ I am a **Fullstack Developer** with a strong focus on building high-performance 
 ---
 
 ### 🚀 What I'm working on
-- **Advanced Python Systems:** Architecting distributed backend services using **FastAPI**, **Django** and **Laravel**.
+- **Advanced Systems:** Architecting distributed backend services using **FastAPI**, **Django** and **Laravel**.
 - **Python & Rust Synergy:** Developing high-performance **Rust extensions for Python** (using PyO3/maturin) to handle CPU-bound tasks that standard Python can't tackle alone.
 - **Cloud Native Python:** Deploying serverless Python functions via **AWS Lambda** and managing resources with S3 and IAM.
-- **IoT Ecosystems:** Integrating **Python** with **AWS IoT Core** and **MQTT** to build real-time data processing pipelines.
+- **IoT Ecosystems:** Integrating **Python** and **Node.js** with **AWS IoT Core** and **MQTT** to build real-time data processing pipelines.
 - **Mobile Exploration:** Bringing my backend expertise to the mobile world to create complete ecosystem experiences.
 
 ---
