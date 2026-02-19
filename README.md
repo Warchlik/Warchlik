@@ -22,17 +22,14 @@ I am a **Fullstack Developer** with a strong focus on building high-performance 
 
 ### 🛠️ Technical Stack
 
-#### **Core Languages & Runtimes**
+#### **Core Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 #### **Frameworks & Libraries**
-- **Backend:** **FastAPI**, **Django**, **Laravel**, Yii2, Express.js, ElysiaJS,
+- **Backend:** **FastAPI**, **Django**, **Laravel**, Yii2, Express.js,
 - **Frontend:** **React.js**, Next.js
 
 #### **Databases & Caching**
