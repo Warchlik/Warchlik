@@ -9,13 +9,12 @@ I am a **Full Stack Software Engineer** with a strong focus on backend developme
 - **B.Sc. in Computer Science** - **Polish-Japanese Academy of Information Technology (PJATK)** in Warsaw
 
 ---
-
 ### What I'm working on
 - **Microservices & Architecture:** Migrating and architecting distributed backend services (SaaS/CRM) using **FastAPI**, **Django**, and **Laravel**.
 - **Infrastructure & DevOps:** Dockerizing environments, optimizing SQL queries, and managing **Linux/Nginx** servers to streamline deployments.
 - **Data Science & ML:** Exploring the world of data processing, scraping optimization, and machine learning models.
 - **Python & Rust Synergy:** Developing high-performance **Rust extensions for Python** (using PyO3/maturin) to handle CPU-bound tasks.
-- **Cloud & IoT:** Working with serverless Python functions via AWS Lambda and integrating Python/Node.js with AWS IoT Core.
+- **Cloud & IoT:** Integrating Python/Node.js with **AWS IoT Core** and **Eclipse Mosquitto** (MQTT broker), computing via serverless AWS Lambda, and leveraging the **TimescaleDB** extension in PostgreSQL for advanced time-series data management.
 
 ---
 
