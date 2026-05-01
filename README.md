@@ -29,7 +29,7 @@ I am a **Full Stack Software Engineer** with a strong focus on backend developme
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### **Frameworks & Libraries**
-- **Backend:** FastAPI, Django, Laravel, Symfony, Yii2,
+- **Backend:** FastAPI, Nest.js, Django, Laravel, Symfony
 - **Frontend:** React.js, Next.js
 
 #### **Databases & Storage**
