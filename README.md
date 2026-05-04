@@ -28,8 +28,8 @@ I am a **Full Stack Software Engineer** with a strong focus on backend developme
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### **Frameworks & Libraries**
-- **Backend:** FastAPI, Nest.js, Django, Laravel, Symfony
+#### **Frameworks**
+- **Backend:** FastAPI, Nest.js, Django, Laravel
 - **Frontend:** React.js, Next.js
 
 #### **Databases & Storage**
