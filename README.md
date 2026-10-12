@@ -8,7 +8,7 @@ I am a **Backend Software Engineer** currently focusing on **Go**, with commerci
 
 ### Education
 
-- **B.Sc. in Computer Science** - **Polish-Japanese Academy of Information Technology (PJATK)** in Warsaw
+- **B.Sc. in Computer Science (in progress)** - **Polish-Japanese Academy of Information Technology (PJATK)** in Warsaw
 
 ---
 
